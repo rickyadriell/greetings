@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Happy New Year',
     description: 'Happy New Year Everyone',
-    url: 'https://rickyadriell.com',
+    url: 'https://greetingsfrom.rickyadriell.com',
     siteName: 'Ricky Adriell',
     locale: 'en_US',
     type: 'website',
